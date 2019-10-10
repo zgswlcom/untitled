@@ -9,7 +9,7 @@ from mymodule import *
 
 
 say_hi()
-print('Version', mymodule.__version__)
+print('Version', __version__)
 
 
 
