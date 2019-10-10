@@ -10,6 +10,6 @@ from mymodule import *
 
 say_hi()
 #print('Version', __version__)
-print('Version')
+
 
 
