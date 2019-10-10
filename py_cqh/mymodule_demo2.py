@@ -5,7 +5,7 @@
 # @file : mymodule_demo.py.py
 # @Software " PyCharm
 
-from mymodule import say_hi, _version__
+from mymodule import say_hi, __version__
 
 
 say_hi()
